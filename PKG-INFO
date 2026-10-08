@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: pynvvideocodec
+Version: 2.1.0
+Summary: pynvvideocodec (PyNvVideoCodec) is NVIDIA's Python library for hardware-accelerated video encode/decode on NVIDIA GPUs.
+Home-page: UNKNOWN
+Author: NVIDIA
+License: MIT
+Platform: UNKNOWN
+License-File: LICENSE.txt
+
+UNKNOWN
+

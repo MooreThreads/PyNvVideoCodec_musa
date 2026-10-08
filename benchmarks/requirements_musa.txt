@@ -1,0 +1,8 @@
+# Requirements for running PyNvVideoCodec benchmarks in MUSA environments.
+# Install PyNvVideoCodec itself separately from the local MUSA build.
+
+numpy>=1.21.0
+pycuda @ git+https://sh-gitlab.mthreads.com/auto-musify/pycuda.git@musa
+matplotlib>=3.3.0
+tabulate>=0.8.9
+tqdm>=4.62.0
